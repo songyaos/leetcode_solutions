@@ -1,0 +1,21 @@
+Yao Song
+2282 Dorman Drive, 	Burnaby, BC V5A 3J3
+songyaos@sfu.ca 			 604-781-9618
+
+Plentyoffish Media Inc.
+555 W Hastings St
+Vancouver, British Columbia
+V6B4N5 Canada
+Re: Software Engineer
+
+Dear Carolina Ellis,
+I met people from POF last year on a social event in downtown Vancouver. They gave me the impression that POF is always a place full of love and I am excited to learn that POF is looking for co-op students to create mobile applications. I believe POF is the ideal place to start a career for a young IT professional full of passion for coding. I hope to take advantage of this unique opportunity to be part of the great team in the coming summer.
+
+Based on my background, I will label myself as a good candidate for the position. My programming ability is proved by my previous projects in Java, C++ and Python. I did mapreduce programming using Java. I did an image processing and encrypting project for undergrad thesis, based on openCV library in C++. I implemented reinforcement learning algorithms in Python in my research. I did a 3-month statistical machine translation system project in Python. I am TA to a wed design course for two semesters. I can work efficiently with HTML. My math skill is trained by my research work in wireless communication filed. I am familiar with optimization, machine learning algorithms, probability theory and statistics. The research work makes me a quick learner of anything I need to solve a new challenging problem independently.
+
+It is proved by my previous working experiences that I can manage to work with multiple teams in a fast-paced environment. My previous internship job requires me to keep up with different tasks from different teams and made them satisfied with my job. In my graduate study, I got more experiences working with people ranging from students as my mentees to professors as my supervisors. As an experienced researcher for years, I know how to find solutions independently and manage multiple priorities at the same time. 
+
+I am eager to learn POF from an employee’s point of view and it will be such a pity to miss the unique opportunity to explore the love community. Thank you for your time for reading my letter. I look forward to your reply.
+
+Sincerely,
+Yao Song
